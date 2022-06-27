@@ -12,3 +12,6 @@ PRAGAN for accv 2022
 - scikit-image = 0.19.2
 - torchvision = 0.11.3
 
+## Trained Model
+- link: https://pan.baidu.com/s/17JrruS7nEjVL2QCRFqKftw 
+- code：no5x
