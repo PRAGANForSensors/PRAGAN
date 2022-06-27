@@ -15,4 +15,4 @@ PRAGAN for accv 2022
 ## Trained Model
 - link: https://pan.baidu.com/s/17JrruS7nEjVL2QCRFqKftw 
 - code：no5x
-- Create a new folder named model and put them in it
+- Create a new folder named Model and put them in it
