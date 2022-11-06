@@ -1,5 +1,5 @@
 # PRAGAN
-PRAGAN for accv 2022
+PRAGAN for Sensors
 
 ## Requirement
 
